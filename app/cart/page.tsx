@@ -13,6 +13,7 @@ import { Container } from "@/components/common/Container"
 import { MotionFadeIn } from "@/components/common/MotionFadeIn"
 import { getCart, updateCartQuantity, removeFromCart, clearCart, type CartItem } from "@/lib/storage/local"
 import { useToast } from "@/hooks/use-toast"
+import { Header } from "@/components/common/Header"
 
 export default function CartPage() {
   const [cartItems, setCartItems] = useState<CartItem[]>([])
@@ -62,6 +63,8 @@ export default function CartPage() {
 
   if (cartItems.length === 0) {
     return (
+    <>
+    <Header/>
       <Container className="py-12">
         <div className="max-w-2xl mx-auto text-center">
           <ShoppingBag className="w-16 h-16 text-muted-foreground mx-auto mb-6" />
@@ -78,6 +81,7 @@ export default function CartPage() {
           </Button>
         </div>
       </Container>
+    </>
     )
   }
 
