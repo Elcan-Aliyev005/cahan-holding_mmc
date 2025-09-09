@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "slug": "saglamliq-ucun-vacib-melumatlar",
+    "title": "Sağlamlıq üçün vacib məlumatlar",
+    "excerpt": "Gündəlik həyatda sağlamlığınızı qorumaq üçün əsas tövsiyələr",
+    "content": "<h2>Sağlam həyat tərzi</h2><p>Sağlamlığınızı qorumaq üçün düzgün qidalanma, mütəmadi idman və kifayət qədər yuxu çox vacibdir.</p>",
+    "cover": "/healthy-lifestyle-medical.jpg",
+    "tags": ["sağlamlıq", "həyat tərzi", "tövsiyələr"],
+    "date": "2024-01-15",
+    "author": "Dr. Əli Məmmədov"
+  },
+  {
+    "id": 2,
+    "slug": "qan-tezyiqi-kontrolu",
+    "title": "Qan təzyiqinin kontrolu",
+    "excerpt": "Yüksək qan təzyiqinin səbəbləri və müalicə üsulları",
+    "content": "<h2>Qan təzyiqi nədir?</h2><p>Qan təzyiqi ürəyin qanı damar sisteminə vurduğu təzyiqdir. Normal səviyyədə saxlanması çox vacibdir.</p>",
+    "cover": "/blood-pressure-monitoring.jpg",
+    "tags": ["qan təzyiqi", "kardioloji", "müalicə"],
+    "date": "2024-01-10",
+    "author": "Dr. Leyla Həsənova"
+  },
+  {
+    "id": 3,
+    "slug": "diabet-idaresi",
+    "title": "Diabetin idarə edilməsi",
+    "excerpt": "Diabetli xəstələr üçün gündəlik həyat qaydaları",
+    "content": "<h2>Diabet nədir?</h2><p>Diabet qanda şəkər səviyyəsinin yüksək olması ilə xarakterizə olunan xroniki xəstəlikdir.</p>",
+    "cover": "/diabetes-management.jpg",
+    "tags": ["diabet", "endokrinologiya", "qidalanma"],
+    "date": "2024-01-05",
+    "author": "Dr. Rəşad Əliyev"
+  }
+]

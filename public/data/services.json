@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Kardioloji Müayinə",
+    "desc": "Ürək və damar xəstəliklərinin diaqnostikası və müalicəsi",
+    "icon": "Heart",
+    "image": "/cardiology-examination.jpg",
+    "features": ["EKQ", "Exokardioqrafiya", "Stress test", "Holter monitoru"],
+    "price": "150 AZN",
+    "duration": "45 dəqiqə"
+  },
+  {
+    "id": 2,
+    "name": "Laborator Testlər",
+    "desc": "Tam qan analizi və biokimyəvi testlər",
+    "icon": "TestTube",
+    "image": "/laboratory-testing.jpg",
+    "features": ["Qan analizi", "Sidik analizi", "Hormon testləri", "Vitamin səviyyəsi"],
+    "price": "80 AZN",
+    "duration": "15 dəqiqə"
+  },
+  {
+    "id": 3,
+    "name": "Radioloji Müayinə",
+    "desc": "Müasir görüntüləmə üsulları ilə diaqnostika",
+    "icon": "Scan",
+    "image": "/radiology-imaging.jpg",
+    "features": ["Rentgen", "USM", "KT", "MRT"],
+    "price": "200 AZN",
+    "duration": "30 dəqiqə"
+  },
+  {
+    "id": 4,
+    "name": "Dermatoloji Müayinə",
+    "desc": "Dəri xəstəliklərinin diaqnostikası və müalicəsi",
+    "icon": "Eye",
+    "image": "/dermatology-consultation.jpg",
+    "features": ["Dəri müayinəsi", "Mole mapping", "Biopsi", "Lazer müalicə"],
+    "price": "120 AZN",
+    "duration": "30 dəqiqə"
+  }
+]

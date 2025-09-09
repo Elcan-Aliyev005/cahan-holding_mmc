@@ -1,0 +1,63 @@
+{
+  "medicalRecords": [
+    {
+      "id": 1,
+      "patientId": 1,
+      "patientName": "Aysel Məmmədova",
+      "doctorId": 1,
+      "doctorName": "Dr. Məhəmməd Quliyev",
+      "date": "2024-03-10",
+      "type": "Müayinə",
+      "diagnosis": "Hipertenziya",
+      "symptoms": ["Baş ağrısı", "Yorğunluq", "Nəfəs darlığı"],
+      "treatment": "ACE inhibitorları təyin edildi",
+      "medications": [
+        {
+          "name": "Lisinopril",
+          "dosage": "10mg",
+          "frequency": "Gündə 1 dəfə",
+          "duration": "30 gün"
+        }
+      ],
+      "labResults": [
+        {
+          "test": "Qan təzyiqi",
+          "result": "150/95 mmHg",
+          "normalRange": "120/80 mmHg",
+          "status": "Yüksək"
+        }
+      ],
+      "notes": "Xəstə 2 həftə sonra yenidən müayinəyə gəlməlidir",
+      "followUpDate": "2024-03-24"
+    },
+    {
+      "id": 2,
+      "patientId": 2,
+      "patientName": "Elvin Həsənov",
+      "doctorId": 2,
+      "doctorName": "Dr. Leyla Əhmədova",
+      "date": "2024-03-08",
+      "type": "Laborator analizi",
+      "diagnosis": "Normal göstəricilər",
+      "symptoms": [],
+      "treatment": "Müalicə tələb olunmur",
+      "medications": [],
+      "labResults": [
+        {
+          "test": "Hemoglobin",
+          "result": "14.5 g/dL",
+          "normalRange": "13.5-17.5 g/dL",
+          "status": "Normal"
+        },
+        {
+          "test": "Ağ qan hüceyrələri",
+          "result": "7200/μL",
+          "normalRange": "4000-11000/μL",
+          "status": "Normal"
+        }
+      ],
+      "notes": "Bütün göstəricilər normal həddəddir",
+      "followUpDate": "2024-09-08"
+    }
+  ]
+}

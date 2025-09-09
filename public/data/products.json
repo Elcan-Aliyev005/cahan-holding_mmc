@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Ürək Monitoru",
+    "slug": "urek-monitoru",
+    "price": 299.99,
+    "category": "Diaqnostika",
+    "rating": 4.8,
+    "images": ["/heart-monitor-device.jpg", "/heart-monitor-display.jpg"],
+    "tags": ["ürək", "monitor", "diaqnostika"],
+    "description": "Peşəkar ürək monitoru - dəqiq nəticələr üçün"
+  },
+  {
+    "id": 2,
+    "title": "Qan Təzyiqi Ölçən",
+    "slug": "qan-tezyiqi-olcen",
+    "price": 89.99,
+    "category": "Diaqnostika",
+    "rating": 4.6,
+    "images": ["/blood-pressure-monitor.jpg", "/digital-bp-monitor.jpg"],
+    "tags": ["qan təzyiqi", "monitor", "sağlamlıq"],
+    "description": "Avtomatik qan təzyiqi ölçən cihazı"
+  },
+  {
+    "id": 3,
+    "title": "Termometr",
+    "slug": "termometr",
+    "price": 29.99,
+    "category": "Ümumi",
+    "rating": 4.9,
+    "images": ["/digital-thermometer.jpg", "/infrared-thermometer.jpg"],
+    "tags": ["termometr", "hərarət", "diaqnostika"],
+    "description": "Rəqəmsal termometr - sürətli və dəqiq"
+  },
+  {
+    "id": 4,
+    "title": "Oksigen Saturasiya Ölçən",
+    "slug": "oksigen-saturasiya-olcen",
+    "price": 45.99,
+    "category": "Diaqnostika",
+    "rating": 4.7,
+    "images": ["/pulse-oximeter.jpg", "/fingertip-oximeter.jpg"],
+    "tags": ["oksigen", "saturasiya", "nəfəs"],
+    "description": "Barmaq ucuna qoyulan oksigen saturasiya ölçən"
+  },
+  {
+    "id": 5,
+    "title": "Stetoskop",
+    "slug": "stetoskop",
+    "price": 129.99,
+    "category": "Diaqnostika",
+    "rating": 4.9,
+    "images": ["/professional-stethoscope.jpg", "/cardiology-stethoscope.jpg"],
+    "tags": ["stetoskop", "dinləmə", "kardioloji"],
+    "description": "Peşəkar kardioloji stetoskop"
+  }
+]

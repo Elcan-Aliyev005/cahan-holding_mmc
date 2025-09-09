@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "blog": "Blog",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile"
+  },
+  "common": {
+    "loading": "Loading...",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "add_to_cart": "Add to cart",
+    "buy_now": "Buy now",
+    "learn_more": "Learn more",
+    "contact_us": "Contact us",
+    "get_started": "Get started"
+  },
+  "hero": {
+    "title": "Your health is our priority",
+    "subtitle": "The best medical services and products in Azerbaijan. Professional doctors and modern equipment.",
+    "cta_primary": "Our Services",
+    "cta_secondary": "Contact us"
+  }
+}

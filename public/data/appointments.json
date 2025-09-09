@@ -1,0 +1,96 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "patientId": 1,
+      "patientName": "Aysel Məmmədova",
+      "doctorId": 1,
+      "doctorName": "Dr. Məhəmməd Quliyev",
+      "department": "Kardioloji",
+      "date": "2024-03-15",
+      "time": "09:00",
+      "duration": 30,
+      "type": "Müayinə",
+      "status": "Təsdiqləndi",
+      "notes": "Ürək ritmi yoxlanılması",
+      "createdAt": "2024-03-10T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "patientId": 2,
+      "patientName": "Elvin Həsənov",
+      "doctorId": 2,
+      "doctorName": "Dr. Leyla Əhmədova",
+      "department": "Laborator",
+      "date": "2024-03-16",
+      "time": "14:30",
+      "duration": 15,
+      "type": "Analiz",
+      "status": "Gözləyir",
+      "notes": "Qan analizləri",
+      "createdAt": "2024-03-12T15:30:00Z"
+    },
+    {
+      "id": 3,
+      "patientId": 3,
+      "patientName": "Günel Əliyeva",
+      "doctorId": 3,
+      "doctorName": "Dr. Rəşad Məmmədov",
+      "department": "Radioloji",
+      "date": "2024-03-17",
+      "time": "11:00",
+      "duration": 45,
+      "type": "MRT",
+      "status": "Tamamlandı",
+      "notes": "Baş MRT müayinəsi",
+      "createdAt": "2024-03-08T09:15:00Z"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Məhəmməd Quliyev",
+      "department": "Kardioloji",
+      "specialization": "Kardioloq",
+      "phone": "+994123456789",
+      "email": "m.guliyev@azmedical.az",
+      "schedule": {
+        "monday": ["09:00-17:00"],
+        "tuesday": ["09:00-17:00"],
+        "wednesday": ["09:00-17:00"],
+        "thursday": ["09:00-17:00"],
+        "friday": ["09:00-15:00"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dr. Leyla Əhmədova",
+      "department": "Laborator",
+      "specialization": "Laborator həkimi",
+      "phone": "+994123456790",
+      "email": "l.ahmadova@azmedical.az",
+      "schedule": {
+        "monday": ["08:00-16:00"],
+        "tuesday": ["08:00-16:00"],
+        "wednesday": ["08:00-16:00"],
+        "thursday": ["08:00-16:00"],
+        "friday": ["08:00-14:00"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dr. Rəşad Məmmədov",
+      "department": "Radioloji",
+      "specialization": "Radioloq",
+      "phone": "+994123456791",
+      "email": "r.mammadov@azmedical.az",
+      "schedule": {
+        "monday": ["10:00-18:00"],
+        "tuesday": ["10:00-18:00"],
+        "wednesday": ["10:00-18:00"],
+        "thursday": ["10:00-18:00"],
+        "friday": ["10:00-16:00"]
+      }
+    }
+  ]
+}

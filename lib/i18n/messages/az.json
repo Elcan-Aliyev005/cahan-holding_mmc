@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Ana səhifə",
+    "products": "Məhsullar",
+    "services": "Xidmətlər",
+    "blog": "Bloq",
+    "pricing": "Qiymətlər",
+    "about": "Haqqımızda",
+    "contact": "Əlaqə",
+    "dashboard": "İdarə paneli",
+    "login": "Giriş",
+    "register": "Qeydiyyat",
+    "profile": "Profil"
+  },
+  "common": {
+    "loading": "Yüklənir...",
+    "search": "Axtarış",
+    "filter": "Filtr",
+    "sort": "Sıralama",
+    "add_to_cart": "Səbətə əlavə et",
+    "buy_now": "İndi al",
+    "learn_more": "Ətraflı",
+    "contact_us": "Bizimlə əlaqə",
+    "get_started": "Başla"
+  },
+  "hero": {
+    "title": "Sağlamlığınız bizim prioritetimizdir",
+    "subtitle": "Azərbaycanda ən yaxşı tibbi xidmətlər və məhsullar. Peşəkar həkimlər və müasir avadanlıqlarla.",
+    "cta_primary": "Xidmətlərimiz",
+    "cta_secondary": "Əlaqə saxla"
+  }
+}

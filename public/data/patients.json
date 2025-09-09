@@ -1,0 +1,64 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "firstName": "Aysel",
+      "lastName": "Məmmədova",
+      "email": "aysel.mammadova@email.com",
+      "phone": "+994501234567",
+      "dateOfBirth": "1985-03-15",
+      "gender": "Qadın",
+      "address": "Bakı şəhəri, Nəsimi rayonu",
+      "bloodType": "A+",
+      "allergies": ["Penisilin", "Qoz"],
+      "emergencyContact": {
+        "name": "Rəşad Məmmədov",
+        "phone": "+994501234568",
+        "relation": "Əri"
+      },
+      "registrationDate": "2024-01-15",
+      "status": "Aktiv",
+      "lastVisit": "2024-03-10"
+    },
+    {
+      "id": 2,
+      "firstName": "Elvin",
+      "lastName": "Həsənov",
+      "email": "elvin.hasanov@email.com",
+      "phone": "+994551234567",
+      "dateOfBirth": "1990-07-22",
+      "gender": "Kişi",
+      "address": "Bakı şəhəri, Yasamal rayonu",
+      "bloodType": "O-",
+      "allergies": [],
+      "emergencyContact": {
+        "name": "Səbinə Həsənova",
+        "phone": "+994551234568",
+        "relation": "Arvadı"
+      },
+      "registrationDate": "2024-02-20",
+      "status": "Aktiv",
+      "lastVisit": "2024-03-08"
+    },
+    {
+      "id": 3,
+      "firstName": "Günel",
+      "lastName": "Əliyeva",
+      "email": "gunel.aliyeva@email.com",
+      "phone": "+994701234567",
+      "dateOfBirth": "1978-11-30",
+      "gender": "Qadın",
+      "address": "Bakı şəhəri, Səbail rayonu",
+      "bloodType": "B+",
+      "allergies": ["Aspirin"],
+      "emergencyContact": {
+        "name": "Tural Əliyev",
+        "phone": "+994701234568",
+        "relation": "Əri"
+      },
+      "registrationDate": "2023-12-05",
+      "status": "Aktiv",
+      "lastVisit": "2024-03-12"
+    }
+  ]
+}

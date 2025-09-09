@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "totalPatients": 1247,
+    "appointmentsToday": 23,
+    "revenue": 45670,
+    "satisfaction": 4.8
+  },
+  "chart": {
+    "labels": ["Yan", "Fev", "Mar", "Apr", "May", "İyn"],
+    "data": [120, 135, 148, 162, 178, 195]
+  },
+  "tableRows": [
+    {
+      "id": 1,
+      "patient": "Əli Məmmədov",
+      "service": "Kardioloji",
+      "date": "2024-01-15",
+      "status": "Tamamlandı"
+    },
+    {
+      "id": 2,
+      "patient": "Leyla Həsənova",
+      "service": "Laborator",
+      "date": "2024-01-14",
+      "status": "Gözləyir"
+    }
+  ]
+}

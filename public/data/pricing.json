@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Əsas Paket",
+    "monthly": 49.99,
+    "yearly": 499.99,
+    "features": ["Əsas müayinələr", "Laborator testləri", "Konsultasiya", "24/7 dəstək"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Paket",
+    "monthly": 99.99,
+    "yearly": 999.99,
+    "features": ["Bütün müayinələr", "Prioritet xidmət", "Evdə xidmət", "Sığorta dəstəyi"]
+  },
+  {
+    "id": 3,
+    "name": "VIP Paket",
+    "monthly": 199.99,
+    "yearly": 1999.99,
+    "features": ["Fərdi həkim", "Limitsiz müayinə", "Xüsusi otaq", "Concierge xidməti"]
+  }
+]
